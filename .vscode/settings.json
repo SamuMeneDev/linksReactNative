@@ -3,5 +3,14 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
-  }
+  },
+  "colorize.decoration_type": "dot",
+  "colorize.colorized_colors": [
+    "BROWSERS_COLORS",
+    "HEXA",
+    "RGB",
+    "HSL",
+    "OKLAB",
+    "OKLCH"
+  ]
 }
